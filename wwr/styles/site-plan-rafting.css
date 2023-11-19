@@ -40,13 +40,13 @@ nav {
     display: flex;
 }
 nav a {
-display: block;
-color: var(--nav-link-color);
-text-decoration: none;
-padding: 1rem;
+    display: block;
+    color: var(--nav-link-color);
+    text-decoration: none;
+    padding: 1rem;
 }
 nav a:link, nav a:visted {
-color: var(--nav-link-color);
+    color: var(--nav-link-color);
 }
 nav a:hover {
     color: var(--nav-hover-link-color);
