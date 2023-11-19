@@ -6,12 +6,12 @@
 --secondary-color:#7dcfb6;
 --accent1-color: #f79256;
 --accent2-color:#00b2ca;
---heading-font:url:https://fonts.googleapis.com/css2?family=Grandstander:wght@200&display=swap;
+--heading-font: ;url;https://fonts.googleapis.com/css2?family=Grandstander:wght@200&display=swap;
 --paragraph-font:url:https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300&family=Barlow:wght@300&family=Grandstander:wght@200&display=swap;
---nav-background-color:#f79256;
---nav-link-color:#00b2ca;
---nav-hover-link-color:#00b2ca;
---nav-hover-background-color:#f79256;
+--nav-background-color: #f79256;
+--nav-link-color: #00b2ca;
+--nav-hover-link-color: #00b2ca;
+--nav-hover-background-color: #f79256;
 }
 
 body {
@@ -45,7 +45,7 @@ nav a {
     text-decoration: none;
     padding: 1rem;
 }
-nav a:link, {
+nav a:link {
     color: var(--nav-link-color);
 }
 nav a:hover {
