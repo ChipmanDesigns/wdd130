@@ -24,13 +24,14 @@
         color: var(--accent2-color);
     }
 
-    .hero img {
-        display: block;
+    .herodiv img {
+        object-fit: cover;
         width: 100%;
-        height: auto;
+        height: 100%;
     }
 
-    div.hero{
+    .herodiv {
+        margin: 10px auto;
         position: relative;
     }
 
