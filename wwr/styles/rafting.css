@@ -26,7 +26,6 @@ h1 {
     width: 100%;
     height: auto;
     float: right;
-    top: 50px;
 }
 
 .hero {
@@ -38,6 +37,10 @@ h1 {
     background-color: var(--secondary-color);
     top: 285px;
     padding: 20px;
+    margin-top: 85px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+    margin-left: 900px;
     float: right;
 }
    
